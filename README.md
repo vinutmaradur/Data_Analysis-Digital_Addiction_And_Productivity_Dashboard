@@ -45,17 +45,17 @@ The dataset includes:
 # Dashboard Components 📊
 1.Daily Screen Time Trend 📈
 - Line chart showing how screen time changes over time
-- Helps detect increasing or decreasing usage patterns
+- Helps detect increasing or decreasing usage patterns </br>
 2.Usage Distribution 📊
 - Comparison of:
     - Gaming Hours
     - Social Media Hours
-    - Work/Study Hours
+    - Work/Study Hours </br>
 3.Productivity vs Distraction ⚖️
-- Shows balance between productive and non-productive activities
+- Shows balance between productive and non-productive activities </br>
 4.Addiction Score Analysis 🚨
 - Highlights users with high digital dependency
-- Can be used to flag risky behavior
+- Can be used to flag risky behavior </br>
 5.User-Level Insights 👤
 - Drill-down analysis per user
 - Identify heavy users vs balanced users
