@@ -51,7 +51,7 @@ The dataset includes:
     - Gaming Hours
     - Social Media Hours
     - Work/Study Hours </br>
-3.Productivity vs Distraction ⚖️
+3. Productivity vs Distraction ⚖️
 - Shows balance between productive and non-productive activities </br>
 4. Addiction Score Analysis 🚨
 - Highlights users with high digital dependency
